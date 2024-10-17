@@ -1,8 +1,54 @@
-img{
-    width: 200px;
-    height: 300px;
+* {
+  margin: 2px;
+  padding: 0;
 }
-video{
-    width: 400px;
-    height: 300px;
+body {
+  background-color: aqua;
+}
+
+.img1 {
+  width: 200px;
+  height: 300px;
+}
+video {
+  width: 400px;
+  height: 300px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: red;
+}
+.para {
+  background-color: burlywood;
+}
+table {
+  margin: auto;
+}
+.logo {
+  width: 100px;
+  height: 30px;
+}
+.footer {
+  text-align: center;
+}
+.footer ul {
+  display: inline;
+  list-style: none;
+}
+.footer ul li {
+  display: inline-block;
+}
+.footer ul li a img {
+  width: 20px;
+  height: 20px;
+}
+.footer p {
+  font-size: 10px;
+}
+.header {
+  text-align: center;
 }
